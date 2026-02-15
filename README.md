@@ -107,6 +107,6 @@ This interactive Excel dashboard is designed for easy exploration. Follow these 
 
 
 ## Author & Contact
-- Name: `Pratyush Puri`
-- Contact: `pratyushpuri17@gmail.com` / [LinkedIn](https://www.linkedin.com/in/pratyushpuri)
+- Name: `Aryan Singh`
+- Contact: `aryancodex2000@gmail.com` / [LinkedIn](https://www.linkedin.com/in/aryan-singh2000)
 

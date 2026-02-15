@@ -84,7 +84,7 @@ This dashboard turns raw data into clear, strategic information. It not only mea
 
 ---
 
-![Adecco](Adecco dashboard picture.png)
+![Adecco](ADECCO.png)
 
 ---
 

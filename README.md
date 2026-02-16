@@ -52,7 +52,7 @@ The Excel dashboard consolidates the analysis into an interactive decision-suppo
   - Callout tiles summarize top risk segments and highlight insights (e.g., junior sales roles with low satisfaction).
 - Designed for **HR and leadership teams** to track attrition, understand its root causes, and evaluate the impact of retention initiatives over time.
 
-![Adecco Attrition Dashboard](Adecco.PNG)
+![Adecco Attrition Dashboard](adecco.jpg)
 
 ---
 
@@ -65,8 +65,6 @@ The Excel dashboard consolidates the analysis into an interactive decision-suppo
 
 ---
 
-**Author:** `Kshitij Saini`  
-**LinkedIn:** [Kshitij Saini](https://www.linkedin.com/in/kshitijsaini-b950b7299?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## Author & Contact
 - Name: `Aryan Singh`
